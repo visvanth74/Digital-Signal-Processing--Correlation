@@ -104,6 +104,6 @@ ylabel('Amplitude')
 title('Discrete Cross Correlated Waveform')
 
 ## OUTPUT:
-
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/86fb74a5-d56a-4dd3-86fa-fef50093d729" />
 ## RESULT:
-
+<img width="1280" height="647" alt="image" src="https://github.com/user-attachments/assets/e073664f-8f9f-49de-a54e-087d8152b3ee" />
